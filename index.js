@@ -48,11 +48,11 @@ const triple = array => {
 
 
 
-//countToFifty(); 
-//countFromOne(25)
+countToFifty(); 
+countFromOne(25)
 
-//threeAndFiveInFifty()
+threeAndFiveInFifty()
 
-//threeOrFive(15);
+threeOrFive(15);
 
-//console.log(triple([1, 2, 3]));
+console.log(triple([1, 2, 3]));
